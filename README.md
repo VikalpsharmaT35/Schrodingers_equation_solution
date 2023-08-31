@@ -1,0 +1,1 @@
+# Schrodingers_equation_solution
